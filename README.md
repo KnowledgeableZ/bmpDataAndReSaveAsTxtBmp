@@ -1,0 +1,2 @@
+# bmpDataAndReSaveAsTxtBmp
+bmp文件解析数据并保存txt和bmp，目前只测试了单通道的灰度图可用
